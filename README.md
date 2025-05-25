@@ -20,7 +20,7 @@
   </p>
 
 # Components: M5 Stamp S3.
-# This is Arduino IDE & Esp IDF Compatible.
+# This is Arduino IDE & Esp IDF Compatible, Esp32 Flasher, esptool.py.
 # Installation Process:
   <li>
     Upload the binary files in M5 Stamp S3 using esptool.py or Esp32 Flasher.
