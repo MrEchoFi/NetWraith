@@ -18,6 +18,10 @@
   <p>
     NetWraith is a compact red-team gadget built on the M5 Stamp S3 microcontroller, engineered to operate as a completely silent intruder on target networks. It delivers aggressive spoofing, session hijacking, and deep packet sniffing—all in one tiny device—allowing red teamers to covertly intercept, manipulate, and analyze network traffic without raising alarms. With its lightweight design, versatile wireless interfaces, and customizable payload scripts, NetWraith empowers advanced penetration testers to simulate real-world adversaries and uncover hidden vulnerabilities with precision and stealth.
   </p>
+  
+  # Photo:
+   ![M5 Stamp S3 image](https://github.com/user-attachments/assets/90913ca9-41df-40f2-b93c-3bf99ef0ee22)
+   
 
 # Components: M5 Stamp S3.
 # This is Arduino IDE & Esp IDF Compatible, Esp32 Flasher, esptool.py.
